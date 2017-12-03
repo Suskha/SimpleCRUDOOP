@@ -1,0 +1,2 @@
+{"id":2,"name":"jfalsk","address":"lsjgd;l","grade":"lgjasdl","section":"lj"}
+{"id":3,"name":"sushil khadka","address":"kupandol","grade":"a","section":""}
